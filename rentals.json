@@ -1,0 +1,14 @@
+{ "rentals": [{
+  "owner": "Ruby Green",
+  "city": "Seattle",
+  "type": "Condo",
+  "bedrooms": 1,
+  "image": "http://clarityonfire.com/wp-content/uploads/2014/04/2.jpg"
+}, {
+  "owner": "Julianna Green",
+  "city": "Portland",
+  "type": "Apartment",
+  "bedrooms": 0,
+  "image": "http://static1.1.sqspcdn.com/static/f/311997/18071649/1336414636837/215715295_e7879ba39e_z.jpg?token=gEE6IJlBj6vahpjEctj9iZ80QQ4%3D"
+  }]
+}
